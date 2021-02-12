@@ -1,2 +1,10 @@
-# starter-project-django
-Folder starter project django
+# Starter Project Django
+
+## Requirements
+- Python
+- PIP
+
+## Cara instalasi
+```
+pip install -r requirements.txt
+```
